@@ -21,3 +21,8 @@ pydub
 matplotlib
 
 ffmpeg-python
+
+torchaudio
+diffusers
+accelerate
+safetensors
