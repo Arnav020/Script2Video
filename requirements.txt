@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+tqdm #progress bars
+
+# Deep Learning / Vision
+torch
+torchvision
+transformers
+
+# Image / Video processing
+Pillow # Python Image Library (Image Processing for Python)
+opencv-python
+moviepy # video editing
+
+# Audio / TTS
+gTTS  # for quick tests, later replace with Coqui TTS
+pydub
+
+# Utilities
+matplotlib
+
+ffmpeg-python
